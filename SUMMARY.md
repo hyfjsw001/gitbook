@@ -2,7 +2,13 @@
 
 - [前言](README.md)
 - [1.洞府无穷岁月，壶天别有乾坤](1.md)
-   - [1.1 知不言](2.1/2.1.md)
+   - [1.1 shell](1/1.1 Shell.md)
+   - [1.2 gitbook](1/1.2 Gitbook.md)
+   - [1.3 MySQL](1/1.3 MySQL.md)
+   - [1.4 GUN](1/1.4 GUN.md)
+   - [1.5 git](1/1.5 Git.md)
+   - [1.6 markdown](1/1.6 Markdown.md)
+   - [1.7 kali](1/1.7 Kali Linux.md)
 - [2.开端](2.md)
 - 
 - 
